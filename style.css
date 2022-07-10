@@ -63,7 +63,7 @@ header {
 }
 .search{
     display: flex;
-    width: 70vw;
+    width: 60vw;
     align-items: center;
     border-radius: 10px;
     background-color: white;
